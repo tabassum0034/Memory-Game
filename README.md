@@ -4,7 +4,7 @@
 
 Submitted by: **Anika Tabassum**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com/edit/#!/destiny-parallel-sousaphone?path=README.md%3A14%3A0)
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/jxTQ8X4.gif)
+![](![](https://i.imgur.com/FYN0dQP.gif)
 
 ## Reflection Questions
 
@@ -70,3 +70,5 @@ Here's a walkthrough of implemented user stories:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
